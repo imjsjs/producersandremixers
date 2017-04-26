@@ -24,7 +24,7 @@ fa-icon: bomb
         <option value="32">32nd note</option>
         <option value="64">64th note</option>
         </select>
-        Dotted note:
+        Triplet:
 <select onchange="computeForm(this.form)" name="dotnote" size="1">
               <option selected="selected" value="NO">NO</option>
               <option value="YES">YES</option>
