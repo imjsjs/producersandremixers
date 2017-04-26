@@ -52,9 +52,7 @@ fa-icon: bomb
 
 `Characteristics of Musical Keys`
 <br>
-<center>
- <iframe width="80%" height ="400" src="http://www.biteyourownelbow.com/keychar.htm"></iframe>
- </center>
+<iframe width="80%" height ="400" src="http://www.biteyourownelbow.com/keychar.htm"></iframe>
 
 <br>
 `Free Samples`
